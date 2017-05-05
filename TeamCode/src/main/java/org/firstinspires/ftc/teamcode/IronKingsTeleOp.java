@@ -54,8 +54,8 @@ public class IronKingsTeleOp extends LinearOpMode
                 robot.rightMotor.setPower(0);
             }
 
-            robot.leftMotor.setPower(rightY);
-            robot.rightMotor.setPower(leftY);
+            robot.leftMotor.setPower(leftY);
+            robot.rightMotor.setPower(rightY);
 
 
 
